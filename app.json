@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Kaboom!",
+    "slug": "kaboom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#1A1033",
+    "android": { "package": "com.kaboom.quiz" },
+    "ios": { "bundleIdentifier": "com.kaboom.quiz" },
+    "web": { "bundler": "metro" }
+  }
+}

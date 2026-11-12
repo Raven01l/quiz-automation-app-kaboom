@@ -1,0 +1,3530 @@
+[
+ {
+  "id": "SCI-001",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Altının kimyasal sembolü nedir?",
+   "en": "What is the chemical symbol for gold?"
+  },
+  "answers": {
+   "tr": [
+    "Gd",
+    "Go",
+    "Ag",
+    "Au"
+   ],
+   "en": [
+    "Gd",
+    "Go",
+    "Ag",
+    "Au"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Au, altın anlamına gelen Latince \"aurum\" kelimesinden gelir. Ag gümüştür.",
+   "en": "Au comes from the Latin word for gold, \"aurum\". Ag is silver."
+  }
+ },
+ {
+  "id": "SCI-002",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Hangi gezegen Kızıl Gezegen olarak bilinir?",
+   "en": "Which planet is known as the Red Planet?"
+  },
+  "answers": {
+   "tr": [
+    "Mars",
+    "Merkür",
+    "Jüpiter",
+    "Venüs"
+   ],
+   "en": [
+    "Mars",
+    "Mercury",
+    "Jupiter",
+    "Venus"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Mars'ın tozundaki demir oksit (pas) gezegene kırmızımsı rengini verir.",
+   "en": "Iron oxide (rust) in Martian dust gives Mars its reddish color."
+  }
+ },
+ {
+  "id": "SCI-003",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Bitkiler fotosentez için havadan hangi gazı alır?",
+   "en": "Which gas do plants take in from the air for photosynthesis?"
+  },
+  "answers": {
+   "tr": [
+    "Karbondioksit",
+    "Oksijen",
+    "Azot",
+    "Hidrojen"
+   ],
+   "en": [
+    "Carbon dioxide",
+    "Oxygen",
+    "Nitrogen",
+    "Hydrogen"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Bitkiler karbondioksit ve suyu glikoza dönüştürür, oksijen açığa çıkarır.",
+   "en": "Plants turn carbon dioxide and water into glucose and release oxygen."
+  }
+ },
+ {
+  "id": "SCI-004",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Deniz seviyesinde su kaç santigrat derecede kaynar?",
+   "en": "At sea level, water boils at how many degrees Celsius?"
+  },
+  "answers": {
+   "tr": [
+    "80",
+    "120",
+    "100",
+    "90"
+   ],
+   "en": [
+    "80",
+    "120",
+    "100",
+    "90"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Yükseklerde hava basıncı düşük olduğu için su 100 °C'nin altında kaynar.",
+   "en": "At higher altitudes the air pressure is lower, so water boils below 100 °C."
+  }
+ },
+ {
+  "id": "SCI-005",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+   "en": "What is the largest planet in our solar system?"
+  },
+  "answers": {
+   "tr": [
+    "Neptün",
+    "Dünya",
+    "Satürn",
+    "Jüpiter"
+   ],
+   "en": [
+    "Neptune",
+    "Earth",
+    "Saturn",
+    "Jupiter"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Jüpiter'in içine 1.300'den fazla Dünya sığabilir.",
+   "en": "More than 1,300 Earths could fit inside Jupiter."
+  }
+ },
+ {
+  "id": "SCI-006",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Hücrenin \"enerji santrali\" olarak bilinen organeli hangisidir?",
+   "en": "Which part of the cell is called its \"powerhouse\"?"
+  },
+  "answers": {
+   "tr": [
+    "Ribozom",
+    "Çekirdek",
+    "Mitokondri",
+    "Golgi cisimciği"
+   ],
+   "en": [
+    "Ribosome",
+    "Nucleus",
+    "Mitochondria",
+    "Golgi apparatus"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Mitokondri, hücrenin enerjisinin büyük kısmını ATP olarak üretir.",
+   "en": "Mitochondria produce most of the cell's energy in the form of ATP."
+  }
+ },
+ {
+  "id": "SCI-007",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "Işık boşlukta yaklaşık hangi hızla yayılır?",
+   "en": "Roughly how fast does light travel in a vacuum?"
+  },
+  "answers": {
+   "tr": [
+    "Saniyede 343 metre",
+    "Saniyede 30.000 km",
+    "Saniyede 300.000 km",
+    "Saniyede 3.000 km"
+   ],
+   "en": [
+    "343 meters per second",
+    "30,000 km per second",
+    "300,000 km per second",
+    "3,000 km per second"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "343 m/s sesin havadaki hızıdır. Güneş'in ışığı bize yaklaşık 8 dakikada ulaşır.",
+   "en": "343 m/s is the speed of sound in air. Light from the Sun reaches us in about 8 minutes."
+  }
+ },
+ {
+  "id": "SCI-008",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Doğadaki en sert madde hangisidir?",
+   "en": "What is the hardest natural substance?"
+  },
+  "answers": {
+   "tr": [
+    "Elmas",
+    "Demir",
+    "Kuvars",
+    "Granit"
+   ],
+   "en": [
+    "Diamond",
+    "Iron",
+    "Quartz",
+    "Granite"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Elmas, çok güçlü bir kristal yapıda dizilmiş saf karbondur.",
+   "en": "Diamond is pure carbon arranged in a very strong crystal structure."
+  }
+ },
+ {
+  "id": "SCI-009",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "Yetişkin bir insanın vücudunda kaç kemik vardır?",
+   "en": "How many bones are in the adult human body?"
+  },
+  "answers": {
+   "tr": [
+    "186",
+    "206",
+    "226",
+    "256"
+   ],
+   "en": [
+    "186",
+    "206",
+    "226",
+    "256"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Bebekler yaklaşık 300 kemikle doğar; bunların birçoğu büyürken birleşir.",
+   "en": "Babies are born with around 300 bones; many fuse together as they grow."
+  }
+ },
+ {
+  "id": "SCI-010",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "pH değeri 7 olan bir çözelti…",
+   "en": "A solution with a pH of 7 is…"
+  },
+  "answers": {
+   "tr": [
+    "Kuvvetli bazdır",
+    "Kuvvetli asittir",
+    "Nötrdür",
+    "Zayıf asittir"
+   ],
+   "en": [
+    "Strongly basic",
+    "Strongly acidic",
+    "Neutral",
+    "Weakly acidic"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "7'nin altı asidik, üstü baziktir. Saf suyun pH değeri 7'dir.",
+   "en": "Below 7 is acidic, above 7 is basic. Pure water has a pH of 7."
+  }
+ },
+ {
+  "id": "SCI-011",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Genel görelilik kuramını kim geliştirmiştir?",
+   "en": "Who developed the theory of general relativity?"
+  },
+  "answers": {
+   "tr": [
+    "Galileo Galilei",
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr"
+   ],
+   "en": [
+    "Galileo Galilei",
+    "Albert Einstein",
+    "Isaac Newton",
+    "Niels Bohr"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Einstein genel görelilik kuramını 1915'te yayımladı.",
+   "en": "Einstein published general relativity in 1915."
+  }
+ },
+ {
+  "id": "SCI-012",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "Dünya atmosferinin büyük kısmını hangi gaz oluşturur?",
+   "en": "Which gas makes up most of Earth's atmosphere?"
+  },
+  "answers": {
+   "tr": [
+    "Argon",
+    "Oksijen",
+    "Azot",
+    "Karbondioksit"
+   ],
+   "en": [
+    "Argon",
+    "Oxygen",
+    "Nitrogen",
+    "Carbon dioxide"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Havanın yaklaşık %78'i azot, %21'i oksijendir.",
+   "en": "Nitrogen is about 78% of the air; oxygen is about 21%."
+  }
+ },
+ {
+  "id": "SCI-013",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "Elektriksel direncin birimi nedir?",
+   "en": "What is the unit of electrical resistance?"
+  },
+  "answers": {
+   "tr": [
+    "Ohm",
+    "Watt",
+    "Volt",
+    "Amper"
+   ],
+   "en": [
+    "Ohm",
+    "Watt",
+    "Volt",
+    "Ampere"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Gerilim volt, akım amper, güç watt ile ölçülür.",
+   "en": "Voltage is measured in volts, current in amperes, and power in watts."
+  }
+ },
+ {
+  "id": "SCI-014",
+  "category": "science",
+  "difficulty": 3,
+  "question": {
+   "tr": "Hangi baz RNA'da bulunur ama DNA'da bulunmaz?",
+   "en": "Which base is found in RNA but not in DNA?"
+  },
+  "answers": {
+   "tr": [
+    "Sitozin",
+    "Guanin",
+    "Adenin",
+    "Urasil"
+   ],
+   "en": [
+    "Cytosine",
+    "Guanine",
+    "Adenine",
+    "Uracil"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "DNA'da urasilin yerini timin alır.",
+   "en": "In DNA, thymine takes the place that uracil has in RNA."
+  }
+ },
+ {
+  "id": "SCI-015",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Güneş'e en yakın gezegen hangisidir?",
+   "en": "Which planet is closest to the Sun?"
+  },
+  "answers": {
+   "tr": [
+    "Dünya",
+    "Mars",
+    "Venüs",
+    "Merkür"
+   ],
+   "en": [
+    "Earth",
+    "Mars",
+    "Venus",
+    "Mercury"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Merkür aynı zamanda Güneş Sistemi'nin en küçük gezegenidir.",
+   "en": "Mercury is also the smallest planet in the solar system."
+  }
+ },
+ {
+  "id": "SCI-016",
+  "category": "science",
+  "difficulty": 1,
+  "question": {
+   "tr": "Atom numarası 1 olan element hangisidir?",
+   "en": "Which element has atomic number 1?"
+  },
+  "answers": {
+   "tr": [
+    "Hidrojen",
+    "Helyum",
+    "Oksijen",
+    "Karbon"
+   ],
+   "en": [
+    "Hydrogen",
+    "Helium",
+    "Oxygen",
+    "Carbon"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Hidrojen evrendeki en hafif ve en bol elementtir.",
+   "en": "Hydrogen is the lightest and most abundant element in the universe."
+  }
+ },
+ {
+  "id": "SCI-017",
+  "category": "science",
+  "difficulty": 3,
+  "question": {
+   "tr": "Alyuvarlar için genel verici kabul edilen kan grubu hangisidir?",
+   "en": "Which blood type is known as the universal donor for red blood cells?"
+  },
+  "answers": {
+   "tr": [
+    "0 Rh(−)",
+    "AB Rh(+)",
+    "A Rh(+)",
+    "B Rh(−)"
+   ],
+   "en": [
+    "O negative",
+    "AB positive",
+    "A positive",
+    "B negative"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "0 Rh(−) alyuvarlarında A, B ve Rh antijeni bulunmadığı için çoğu kişiye verilebilir.",
+   "en": "O negative red cells have no A, B or Rh antigens, so most people can receive them."
+  }
+ },
+ {
+  "id": "SCI-018",
+  "category": "science",
+  "difficulty": 2,
+  "question": {
+   "tr": "Ses aşağıdakilerin hangisinde en hızlı yayılır?",
+   "en": "Through which of these does sound travel fastest?"
+  },
+  "answers": {
+   "tr": [
+    "Su",
+    "Boşluk",
+    "Hava",
+    "Çelik"
+   ],
+   "en": [
+    "Water",
+    "A vacuum",
+    "Air",
+    "Steel"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Ses en hızlı katılarda yayılır; boşlukta hiç yayılamaz.",
+   "en": "Sound moves fastest through solids and cannot travel through a vacuum at all."
+  }
+ },
+ {
+  "id": "HIS-001",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Ay'a ilk ayak basan insan kimdir?",
+   "en": "Who was the first person to walk on the Moon?"
+  },
+  "answers": {
+   "tr": [
+    "Michael Collins",
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin"
+   ],
+   "en": [
+    "Michael Collins",
+    "Yuri Gagarin",
+    "Neil Armstrong",
+    "Buzz Aldrin"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Armstrong, 20 Temmuz 1969'da Apollo 11 göreviyle Ay'a ayak bastı.",
+   "en": "Armstrong stepped onto the Moon on July 20, 1969, during Apollo 11."
+  }
+ },
+ {
+  "id": "HIS-002",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "İkinci Dünya Savaşı hangi yıl sona erdi?",
+   "en": "In which year did World War II end?"
+  },
+  "answers": {
+   "tr": [
+    "1939",
+    "1945",
+    "1944",
+    "1950"
+   ],
+   "en": [
+    "1939",
+    "1945",
+    "1944",
+    "1950"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Savaş Avrupa'da Mayıs 1945'te, Asya'da Eylül 1945'te sona erdi.",
+   "en": "The war ended in Europe in May 1945 and in Asia in September 1945."
+  }
+ },
+ {
+  "id": "HIS-003",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Osmanlılar Konstantinopolis'i hangi yıl fethetti?",
+   "en": "In which year did the Ottomans conquer Constantinople?"
+  },
+  "answers": {
+   "tr": [
+    "1071",
+    "1517",
+    "1453",
+    "1299"
+   ],
+   "en": [
+    "1071",
+    "1517",
+    "1453",
+    "1299"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Şehri Sultan II. Mehmet fethetti; şehir zamanla İstanbul adıyla anıldı.",
+   "en": "Sultan Mehmed II conquered the city, which became known as Istanbul."
+  }
+ },
+ {
+  "id": "HIS-004",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "ABD'nin ilk başkanı kimdir?",
+   "en": "Who was the first president of the United States?"
+  },
+  "answers": {
+   "tr": [
+    "George Washington",
+    "Thomas Jefferson",
+    "Abraham Lincoln",
+    "John Adams"
+   ],
+   "en": [
+    "George Washington",
+    "Thomas Jefferson",
+    "Abraham Lincoln",
+    "John Adams"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Washington 1789–1797 yılları arasında iki dönem görev yaptı.",
+   "en": "Washington served two terms, from 1789 to 1797."
+  }
+ },
+ {
+  "id": "HIS-005",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Machu Picchu'yu hangi uygarlık inşa etti?",
+   "en": "Which civilization built Machu Picchu?"
+  },
+  "answers": {
+   "tr": [
+    "İnkalar",
+    "Mayalar",
+    "Olmekler",
+    "Aztekler"
+   ],
+   "en": [
+    "The Inca",
+    "The Maya",
+    "The Olmecs",
+    "The Aztecs"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Machu Picchu 15. yüzyılda Peru'daki And Dağları'nda inşa edildi.",
+   "en": "Machu Picchu was built in the 15th century high in the Andes of Peru."
+  }
+ },
+ {
+  "id": "HIS-006",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+   "en": "In which year was the Republic of Türkiye proclaimed?"
+  },
+  "answers": {
+   "tr": [
+    "1923",
+    "1919",
+    "1938",
+    "1920"
+   ],
+   "en": [
+    "1923",
+    "1919",
+    "1938",
+    "1920"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Cumhuriyet 29 Ekim 1923'te ilan edildi.",
+   "en": "The Republic was proclaimed on October 29, 1923."
+  }
+ },
+ {
+  "id": "HIS-007",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye Cumhuriyeti'nin kurucusu kimdir?",
+   "en": "Who founded the Republic of Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "Celal Bayar",
+    "Mustafa Kemal Atatürk",
+    "İsmet İnönü",
+    "Kazım Karabekir"
+   ],
+   "en": [
+    "Celal Bayar",
+    "Mustafa Kemal Atatürk",
+    "İsmet İnönü",
+    "Kazım Karabekir"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Atatürk, 1923'ten 1938'e kadar Cumhuriyet'in ilk cumhurbaşkanıydı.",
+   "en": "Atatürk was the Republic's first president, from 1923 to 1938."
+  }
+ },
+ {
+  "id": "HIS-008",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Berlin Duvarı hangi yıl yıkıldı?",
+   "en": "In which year did the Berlin Wall fall?"
+  },
+  "answers": {
+   "tr": [
+    "1961",
+    "1989",
+    "1991",
+    "1985"
+   ],
+   "en": [
+    "1961",
+    "1989",
+    "1991",
+    "1985"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Duvar 1961'de inşa edildi ve 9 Kasım 1989'da açıldı.",
+   "en": "The wall was built in 1961 and opened on November 9, 1989."
+  }
+ },
+ {
+  "id": "HIS-009",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Nobel Ödülü kazanan ilk kadın kimdir?",
+   "en": "Who was the first woman to win a Nobel Prize?"
+  },
+  "answers": {
+   "tr": [
+    "Ada Lovelace",
+    "Rosalind Franklin",
+    "Florence Nightingale",
+    "Marie Curie"
+   ],
+   "en": [
+    "Ada Lovelace",
+    "Rosalind Franklin",
+    "Florence Nightingale",
+    "Marie Curie"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Marie Curie hem fizik (1903) hem kimya (1911) dallarında Nobel kazandı.",
+   "en": "Marie Curie won Nobel Prizes in both physics (1903) and chemistry (1911)."
+  }
+ },
+ {
+  "id": "HIS-010",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Titanik hangi yıl battı?",
+   "en": "In which year did the Titanic sink?"
+  },
+  "answers": {
+   "tr": [
+    "1921",
+    "1912",
+    "1905",
+    "1898"
+   ],
+   "en": [
+    "1921",
+    "1912",
+    "1905",
+    "1898"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Titanik, Nisan 1912'deki ilk seferinde battı.",
+   "en": "The Titanic sank on its first voyage, in April 1912."
+  }
+ },
+ {
+  "id": "HIS-011",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "1440 civarında Avrupa'da hareketli harflerle baskıyı başlatan kimdir?",
+   "en": "Who introduced printing with movable type in Europe around 1440?"
+  },
+  "answers": {
+   "tr": [
+    "Johannes Gutenberg",
+    "Leonardo da Vinci",
+    "Martin Luther",
+    "Galileo Galilei"
+   ],
+   "en": [
+    "Johannes Gutenberg",
+    "Leonardo da Vinci",
+    "Martin Luther",
+    "Galileo Galilei"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Gutenberg İncili bu yöntemle basılan ilk büyük kitaplardandır.",
+   "en": "The Gutenberg Bible is one of the first major books printed this way."
+  }
+ },
+ {
+  "id": "HIS-012",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Marcus Antonius ile ittifak kuran Mısır kraliçesi kimdir?",
+   "en": "Which Egyptian queen formed an alliance with Mark Antony?"
+  },
+  "answers": {
+   "tr": [
+    "Kleopatra",
+    "Nefertiti",
+    "Hatşepsut",
+    "Nefertari"
+   ],
+   "en": [
+    "Cleopatra",
+    "Nefertiti",
+    "Hatshepsut",
+    "Nefertari"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "VII. Kleopatra, Ptolemaios Mısırı'nın son etkin hükümdarıydı.",
+   "en": "Cleopatra VII was the last active ruler of Ptolemaic Egypt."
+  }
+ },
+ {
+  "id": "HIS-013",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Fransız İhtilali hangi yıl başladı?",
+   "en": "In which year did the French Revolution begin?"
+  },
+  "answers": {
+   "tr": [
+    "1776",
+    "1789",
+    "1815",
+    "1848"
+   ],
+   "en": [
+    "1776",
+    "1789",
+    "1815",
+    "1848"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "En bilinen olayı 14 Temmuz 1789'daki Bastille Baskını'dır.",
+   "en": "The storming of the Bastille on July 14, 1789, is its best-known event."
+  }
+ },
+ {
+  "id": "HIS-014",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Uzaya giden ilk insan kimdir?",
+   "en": "Who was the first human to travel into space?"
+  },
+  "answers": {
+   "tr": [
+    "Yuri Gagarin",
+    "Alan Shepard",
+    "Neil Armstrong",
+    "John Glenn"
+   ],
+   "en": [
+    "Yuri Gagarin",
+    "Alan Shepard",
+    "Neil Armstrong",
+    "John Glenn"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Gagarin, 12 Nisan 1961'de Vostok 1 ile Dünya'nın yörüngesinde dolaştı.",
+   "en": "Gagarin orbited Earth on April 12, 1961, aboard Vostok 1."
+  }
+ },
+ {
+  "id": "HIS-015",
+  "category": "history",
+  "difficulty": 3,
+  "question": {
+   "tr": "Magna Carta hangi yıl mühürlendi?",
+   "en": "In which year was the Magna Carta sealed?"
+  },
+  "answers": {
+   "tr": [
+    "1314",
+    "1492",
+    "1066",
+    "1215"
+   ],
+   "en": [
+    "1314",
+    "1492",
+    "1066",
+    "1215"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "İngiltere Kralı John, Magna Carta'yı 1215'te Runnymede'de kabul etti.",
+   "en": "King John of England agreed to the Magna Carta at Runnymede in 1215."
+  }
+ },
+ {
+  "id": "HIS-016",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Cengiz Han hangi imparatorluğu kurdu?",
+   "en": "Which empire did Genghis Khan found?"
+  },
+  "answers": {
+   "tr": [
+    "Roma İmparatorluğu",
+    "Osmanlı İmparatorluğu",
+    "Moğol İmparatorluğu",
+    "Pers İmparatorluğu"
+   ],
+   "en": [
+    "The Roman Empire",
+    "The Ottoman Empire",
+    "The Mongol Empire",
+    "The Persian Empire"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "En geniş döneminde tarihin en büyük kara imparatorluğuydu.",
+   "en": "At its height it was the largest land empire in history."
+  }
+ },
+ {
+  "id": "HIS-017",
+  "category": "history",
+  "difficulty": 2,
+  "question": {
+   "tr": "Wright kardeşler ilk motorlu uçuşu hangi yıl yaptı?",
+   "en": "In which year did the Wright brothers make the first powered airplane flight?"
+  },
+  "answers": {
+   "tr": [
+    "1910",
+    "1899",
+    "1903",
+    "1927"
+   ],
+   "en": [
+    "1910",
+    "1899",
+    "1903",
+    "1927"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Kitty Hawk'taki ilk uçuş yaklaşık 12 saniye sürdü.",
+   "en": "The first flight, at Kitty Hawk, lasted about 12 seconds."
+  }
+ },
+ {
+  "id": "HIS-018",
+  "category": "history",
+  "difficulty": 1,
+  "question": {
+   "tr": "Kristof Kolomb Amerika kıtasına ilk kez hangi yıl ulaştı?",
+   "en": "In which year did Christopher Columbus first reach the Americas?"
+  },
+  "answers": {
+   "tr": [
+    "1519",
+    "1492",
+    "1453",
+    "1607"
+   ],
+   "en": [
+    "1519",
+    "1492",
+    "1453",
+    "1607"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Ekim 1492'de Bahamalar'a ulaştı.",
+   "en": "He landed in the Bahamas in October 1492."
+  }
+ },
+ {
+  "id": "GEO-001",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Avustralya'nın başkenti neresidir?",
+   "en": "What is the capital of Australia?"
+  },
+  "answers": {
+   "tr": [
+    "Canberra",
+    "Perth",
+    "Melbourne",
+    "Sidney"
+   ],
+   "en": [
+    "Canberra",
+    "Perth",
+    "Melbourne",
+    "Sydney"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Canberra, Sidney ile Melbourne arasında bir uzlaşma olarak sıfırdan kuruldu.",
+   "en": "Canberra was purpose-built as a compromise between Sydney and Melbourne."
+  }
+ },
+ {
+  "id": "GEO-002",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Dünya'nın en büyük okyanusu hangisidir?",
+   "en": "What is the largest ocean on Earth?"
+  },
+  "answers": {
+   "tr": [
+    "Hint Okyanusu",
+    "Büyük Okyanus (Pasifik)",
+    "Arktik Okyanusu",
+    "Atlas Okyanusu"
+   ],
+   "en": [
+    "The Indian Ocean",
+    "The Pacific Ocean",
+    "The Arctic Ocean",
+    "The Atlantic Ocean"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Büyük Okyanus, Dünya'daki tüm karaların toplamından daha geniştir.",
+   "en": "The Pacific covers more area than all of Earth's land combined."
+  }
+ },
+ {
+  "id": "GEO-003",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Deniz seviyesine göre en yüksek dağ hangisidir?",
+   "en": "What is the highest mountain above sea level?"
+  },
+  "answers": {
+   "tr": [
+    "Kangchenjunga",
+    "K2",
+    "Mont Blanc",
+    "Everest Dağı"
+   ],
+   "en": [
+    "Kangchenjunga",
+    "K2",
+    "Mont Blanc",
+    "Mount Everest"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Everest deniz seviyesinden yaklaşık 8.849 metre yüksektir.",
+   "en": "Everest rises about 8,849 meters above sea level."
+  }
+ },
+ {
+  "id": "GEO-004",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Yüzölçümü en büyük ülke hangisidir?",
+   "en": "Which country has the largest land area?"
+  },
+  "answers": {
+   "tr": [
+    "Kanada",
+    "ABD",
+    "Çin",
+    "Rusya"
+   ],
+   "en": [
+    "Canada",
+    "United States",
+    "China",
+    "Russia"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Rusya 11 saat dilimine yayılır.",
+   "en": "Russia spans 11 time zones."
+  }
+ },
+ {
+  "id": "GEO-005",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Kanada'nın başkenti neresidir?",
+   "en": "What is the capital of Canada?"
+  },
+  "answers": {
+   "tr": [
+    "Montreal",
+    "Vancouver",
+    "Ottawa",
+    "Toronto"
+   ],
+   "en": [
+    "Montreal",
+    "Vancouver",
+    "Ottawa",
+    "Toronto"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Toronto Kanada'nın en büyük şehridir ama başkent Ottawa'dır.",
+   "en": "Toronto is Canada's largest city, but Ottawa is the capital."
+  }
+ },
+ {
+  "id": "GEO-006",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Dünyanın en büyük sıcak çölü hangisidir?",
+   "en": "What is the largest hot desert in the world?"
+  },
+  "answers": {
+   "tr": [
+    "Sahra",
+    "Gobi",
+    "Arap Çölü",
+    "Kalahari"
+   ],
+   "en": [
+    "The Sahara",
+    "The Gobi",
+    "The Arabian Desert",
+    "The Kalahari"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Çöller yağış azlığına göre tanımlandığı için en büyük çöl aslında Antarktika'dır.",
+   "en": "Antarctica is the largest desert overall, since deserts are defined by low rainfall."
+  }
+ },
+ {
+  "id": "GEO-007",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Mısır'ın büyük bölümü hangi kıtadadır?",
+   "en": "On which continent is Egypt mainly located?"
+  },
+  "answers": {
+   "tr": [
+    "Avrupa",
+    "Güney Amerika",
+    "Afrika",
+    "Asya"
+   ],
+   "en": [
+    "Europe",
+    "South America",
+    "Africa",
+    "Asia"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Sina Yarımadası Asya'dadır ama ülkenin büyük kısmı Afrika'dadır.",
+   "en": "Egypt's Sinai Peninsula extends into Asia, but most of the country is in Africa."
+  }
+ },
+ {
+  "id": "GEO-008",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Nüfusu en kalabalık ülke hangisidir?",
+   "en": "Which country has the largest population?"
+  },
+  "answers": {
+   "tr": [
+    "Çin",
+    "Hindistan",
+    "ABD",
+    "Endonezya"
+   ],
+   "en": [
+    "China",
+    "India",
+    "United States",
+    "Indonesia"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "BM tahminlerine göre Hindistan 2023'te Çin'i geçti.",
+   "en": "India passed China as the most populous country in 2023, according to UN estimates."
+  }
+ },
+ {
+  "id": "GEO-009",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Japonya'nın başkenti neresidir?",
+   "en": "What is the capital of Japan?"
+  },
+  "answers": {
+   "tr": [
+    "Osaka",
+    "Tokyo",
+    "Hiroşima",
+    "Kyoto"
+   ],
+   "en": [
+    "Osaka",
+    "Tokyo",
+    "Hiroshima",
+    "Kyoto"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Kyoto, Tokyo'dan önce bin yılı aşkın süre imparatorluk başkentiydi.",
+   "en": "Kyoto was the imperial capital for over a thousand years before Tokyo."
+  }
+ },
+ {
+  "id": "GEO-010",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "İstanbul hangi boğazın iki yakasında yer alır?",
+   "en": "Istanbul lies on both sides of which strait?"
+  },
+  "answers": {
+   "tr": [
+    "Hürmüz Boğazı",
+    "Çanakkale Boğazı",
+    "İstanbul Boğazı",
+    "Cebelitarık Boğazı"
+   ],
+   "en": [
+    "The Strait of Hormuz",
+    "The Dardanelles",
+    "The Bosphorus",
+    "The Strait of Gibraltar"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "İstanbul Boğazı, Karadeniz'i Marmara Denizi'ne bağlar.",
+   "en": "The Bosphorus connects the Black Sea to the Sea of Marmara."
+  }
+ },
+ {
+  "id": "GEO-011",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Yüzölçümü en küçük ülke hangisidir?",
+   "en": "What is the smallest country in the world by area?"
+  },
+  "answers": {
+   "tr": [
+    "San Marino",
+    "Lihtenştayn",
+    "Vatikan",
+    "Monako"
+   ],
+   "en": [
+    "San Marino",
+    "Liechtenstein",
+    "Vatican City",
+    "Monaco"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Vatikan'ın yüzölçümü yarım kilometrekareden azdır.",
+   "en": "Vatican City covers less than half a square kilometer."
+  }
+ },
+ {
+  "id": "GEO-012",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Güney Amerika'nın en büyük ülkesi hangisidir?",
+   "en": "What is the largest country in South America?"
+  },
+  "answers": {
+   "tr": [
+    "Peru",
+    "Brezilya",
+    "Arjantin",
+    "Kolombiya"
+   ],
+   "en": [
+    "Peru",
+    "Brazil",
+    "Argentina",
+    "Colombia"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Brezilya, Güney Amerika'nın neredeyse yarısını kaplar.",
+   "en": "Brazil covers almost half of South America."
+  }
+ },
+ {
+  "id": "GEO-013",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye'nin başkenti neresidir?",
+   "en": "What is the capital of Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "İzmir",
+    "Ankara",
+    "Bursa",
+    "İstanbul"
+   ],
+   "en": [
+    "Izmir",
+    "Ankara",
+    "Bursa",
+    "Istanbul"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Ankara 1923'te başkent oldu.",
+   "en": "Ankara became the capital in 1923."
+  }
+ },
+ {
+  "id": "GEO-014",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "En yaygın modele göre kaç kıta vardır?",
+   "en": "How many continents are there in the most common model?"
+  },
+  "answers": {
+   "tr": [
+    "6",
+    "8",
+    "5",
+    "7"
+   ],
+   "en": [
+    "6",
+    "8",
+    "5",
+    "7"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Afrika, Antarktika, Asya, Avustralya (Okyanusya), Avrupa, Kuzey Amerika ve Güney Amerika.",
+   "en": "Africa, Antarctica, Asia, Australia (Oceania), Europe, North America and South America."
+  }
+ },
+ {
+  "id": "GEO-015",
+  "category": "geography",
+  "difficulty": 1,
+  "question": {
+   "tr": "Paris'ten hangi nehir geçer?",
+   "en": "Which river flows through Paris?"
+  },
+  "answers": {
+   "tr": [
+    "Ren",
+    "Tuna",
+    "Thames",
+    "Sen"
+   ],
+   "en": [
+    "The Rhine",
+    "The Danube",
+    "The Thames",
+    "The Seine"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Thames Londra'dan, Tuna ise Viyana ve Budapeşte'den geçer.",
+   "en": "The Thames flows through London; the Danube through Vienna and Budapest."
+  }
+ },
+ {
+  "id": "GEO-016",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Türkiye'nin en büyük gölü hangisidir?",
+   "en": "What is the largest lake in Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "Beyşehir Gölü",
+    "Tuz Gölü",
+    "Eğirdir Gölü",
+    "Van Gölü"
+   ],
+   "en": [
+    "Lake Beyşehir",
+    "Lake Tuz",
+    "Lake Eğirdir",
+    "Lake Van"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Van Gölü, doğu Türkiye'de tuzlu ve sodalı bir göldür.",
+   "en": "Lake Van is a salty soda lake in eastern Türkiye."
+  }
+ },
+ {
+  "id": "GEO-017",
+  "category": "geography",
+  "difficulty": 3,
+  "question": {
+   "tr": "Kilimanjaro Dağı hangi ülkededir?",
+   "en": "In which country is Mount Kilimanjaro?"
+  },
+  "answers": {
+   "tr": [
+    "Tanzanya",
+    "Kenya",
+    "Uganda",
+    "Etiyopya"
+   ],
+   "en": [
+    "Tanzania",
+    "Kenya",
+    "Uganda",
+    "Ethiopia"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Kilimanjaro, Kenya sınırına yakın olup Afrika'nın en yüksek dağıdır.",
+   "en": "Kilimanjaro is Africa's highest mountain, near the border with Kenya."
+  }
+ },
+ {
+  "id": "GEO-018",
+  "category": "geography",
+  "difficulty": 2,
+  "question": {
+   "tr": "Brezilya'nın başkenti neresidir?",
+   "en": "What is the capital of Brazil?"
+  },
+  "answers": {
+   "tr": [
+    "São Paulo",
+    "Brasília",
+    "Rio de Janeiro",
+    "Salvador"
+   ],
+   "en": [
+    "São Paulo",
+    "Brasília",
+    "Rio de Janeiro",
+    "Salvador"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Brasília 1950'lerde inşa edildi ve 1960'ta başkent oldu.",
+   "en": "Brasília was built in the 1950s and became the capital in 1960."
+  }
+ },
+ {
+  "id": "TEC-001",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "HTML'in açılımı nedir?",
+   "en": "What does HTML stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Hyperlink Text Management Language",
+    "HyperText Markup Language",
+    "HighText Machine Language",
+    "Home Tool Markup Language"
+   ],
+   "en": [
+    "Hyperlink Text Management Language",
+    "HyperText Markup Language",
+    "HighText Machine Language",
+    "Home Tool Markup Language"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "HTML web sayfalarının yapısını tanımlar.",
+   "en": "HTML describes the structure of web pages."
+  }
+ },
+ {
+  "id": "TEC-002",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "Microsoft'u Paul Allen ile birlikte kim kurdu?",
+   "en": "Who co-founded Microsoft with Paul Allen?"
+  },
+  "answers": {
+   "tr": [
+    "Mark Zuckerberg",
+    "Bill Gates",
+    "Larry Page",
+    "Steve Jobs"
+   ],
+   "en": [
+    "Mark Zuckerberg",
+    "Bill Gates",
+    "Larry Page",
+    "Steve Jobs"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Microsoft 1975'te kuruldu.",
+   "en": "Microsoft was founded in 1975."
+  }
+ },
+ {
+  "id": "TEC-003",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "CPU'nun açılımı nedir?",
+   "en": "What does CPU stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Central Processing Unit",
+    "Computer Power Unit",
+    "Central Program Utility",
+    "Core Processing Utility"
+   ],
+   "en": [
+    "Central Processing Unit",
+    "Computer Power Unit",
+    "Central Program Utility",
+    "Core Processing Utility"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "CPU (merkezi işlem birimi) programların komutlarını yürütür.",
+   "en": "The CPU carries out the instructions of computer programs."
+  }
+ },
+ {
+  "id": "TEC-004",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "İkilik sistemdeki 1010 sayısı onluk sistemde kaçtır?",
+   "en": "What is the binary number 1010 in decimal?"
+  },
+  "answers": {
+   "tr": [
+    "8",
+    "10",
+    "12",
+    "5"
+   ],
+   "en": [
+    "8",
+    "10",
+    "12",
+    "5"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "1010 = 1×8 + 0×4 + 1×2 + 0×1 = 10.",
+   "en": "1010 = 1×8 + 0×4 + 1×2 + 0×1 = 10."
+  }
+ },
+ {
+  "id": "TEC-005",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "Bir bayt kaç bitten oluşur?",
+   "en": "How many bits are in one byte?"
+  },
+  "answers": {
+   "tr": [
+    "10",
+    "4",
+    "16",
+    "8"
+   ],
+   "en": [
+    "10",
+    "4",
+    "16",
+    "8"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Bir bayt 256 farklı değeri gösterebilir.",
+   "en": "One byte can represent 256 different values."
+  }
+ },
+ {
+  "id": "TEC-006",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "Google, Android uygulamaları geliştirmek için hangi dili önerir?",
+   "en": "Which language does Google recommend for building Android apps?"
+  },
+  "answers": {
+   "tr": [
+    "Swift",
+    "Ruby",
+    "PHP",
+    "Kotlin"
+   ],
+   "en": [
+    "Swift",
+    "Ruby",
+    "PHP",
+    "Kotlin"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Swift, Apple'ın iOS uygulamaları için geliştirdiği dildir.",
+   "en": "Swift is Apple's language for iOS apps."
+  }
+ },
+ {
+  "id": "TEC-007",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "Web adreslerindeki \"WWW\" neyin kısaltmasıdır?",
+   "en": "What does \"WWW\" stand for in a web address?"
+  },
+  "answers": {
+   "tr": [
+    "World Web Window",
+    "Web World Wide",
+    "Wide Web World",
+    "World Wide Web"
+   ],
+   "en": [
+    "World Web Window",
+    "Web World Wide",
+    "Wide Web World",
+    "World Wide Web"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Web, internet üzerinde çalışan hizmetlerden biridir.",
+   "en": "The web is one service that runs on the internet."
+  }
+ },
+ {
+  "id": "TEC-008",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "World Wide Web'i kim icat etti?",
+   "en": "Who invented the World Wide Web?"
+  },
+  "answers": {
+   "tr": [
+    "Vint Cerf",
+    "Tim Berners-Lee",
+    "Bill Gates",
+    "Alan Turing"
+   ],
+   "en": [
+    "Vint Cerf",
+    "Tim Berners-Lee",
+    "Bill Gates",
+    "Alan Turing"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Tim Berners-Lee web'i 1989'da CERN'de çalışırken önerdi.",
+   "en": "Tim Berners-Lee proposed the web in 1989 while working at CERN."
+  }
+ },
+ {
+  "id": "TEC-009",
+  "category": "tech",
+  "difficulty": 3,
+  "question": {
+   "tr": "HTTPS varsayılan olarak hangi portu kullanır?",
+   "en": "Which port does HTTPS use by default?"
+  },
+  "answers": {
+   "tr": [
+    "80",
+    "443",
+    "21",
+    "8080"
+   ],
+   "en": [
+    "80",
+    "443",
+    "21",
+    "8080"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "80 düz HTTP'nin, 21 ise FTP'nin varsayılan portudur.",
+   "en": "Port 80 is the default for plain HTTP; port 21 is for FTP."
+  }
+ },
+ {
+  "id": "TEC-010",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "RAM'in açılımı nedir?",
+   "en": "What does RAM stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Rapid Application Memory",
+    "Random Access Memory",
+    "Run All Memory",
+    "Read Access Memory"
+   ],
+   "en": [
+    "Rapid Application Memory",
+    "Random Access Memory",
+    "Run All Memory",
+    "Read Access Memory"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "RAM hızlı ve geçici bir bellektir; elektrik kesilince içi silinir.",
+   "en": "RAM is fast, temporary memory that is cleared when the power goes off."
+  }
+ },
+ {
+  "id": "TEC-011",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "Aşağıdakilerden hangisi bir sürüm kontrol sistemidir?",
+   "en": "Which of these is a version control system?"
+  },
+  "answers": {
+   "tr": [
+    "MySQL",
+    "Linux",
+    "Git",
+    "Java"
+   ],
+   "en": [
+    "MySQL",
+    "Linux",
+    "Git",
+    "Java"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Git koddaki değişiklikleri izler; GitHub ise Git depolarını çevrim içi barındırır.",
+   "en": "Git tracks changes in code; GitHub hosts Git repositories online."
+  }
+ },
+ {
+  "id": "TEC-012",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "Arayüz geliştirmek için kullanılan React kütüphanesini hangi şirket geliştirdi?",
+   "en": "Which company created the React library for building user interfaces?"
+  },
+  "answers": {
+   "tr": [
+    "Meta (Facebook)",
+    "Microsoft",
+    "Google",
+    "Apple"
+   ],
+   "en": [
+    "Meta (Facebook)",
+    "Microsoft",
+    "Google",
+    "Apple"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Bu uygulamanın yazıldığı React Native de aynı şirketten çıktı.",
+   "en": "React Native, which this app is built with, comes from the same company."
+  }
+ },
+ {
+  "id": "TEC-013",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "Python dosyaları hangi uzantıyı kullanır?",
+   "en": "Which file extension is used for Python files?"
+  },
+  "answers": {
+   "tr": [
+    ".pyt",
+    ".pt",
+    ".py",
+    ".pn"
+   ],
+   "en": [
+    ".pyt",
+    ".pt",
+    ".py",
+    ".pn"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Python adını yılandan değil, Monty Python komedi grubundan alır.",
+   "en": "Python is named after the comedy group Monty Python, not the snake."
+  }
+ },
+ {
+  "id": "TEC-014",
+  "category": "tech",
+  "difficulty": 3,
+  "question": {
+   "tr": "Bir kibibayt (KiB) kaç bayttır?",
+   "en": "How many bytes are in one kibibyte (KiB)?"
+  },
+  "answers": {
+   "tr": [
+    "2.048",
+    "1.000",
+    "1.024",
+    "512"
+   ],
+   "en": [
+    "2,048",
+    "1,000",
+    "1,024",
+    "512"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Bir kilobayt (kB) 1.000 bayt, bir kibibayt (KiB) ise 2¹⁰ = 1.024 bayttır.",
+   "en": "A kilobyte (kB) is 1,000 bytes; a kibibyte (KiB) is 2¹⁰ = 1,024 bytes."
+  }
+ },
+ {
+  "id": "TEC-015",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "1950'de makine zekâsı için \"taklit oyunu\" testini kim önerdi?",
+   "en": "Who proposed the \"imitation game\" test for machine intelligence in 1950?"
+  },
+  "answers": {
+   "tr": [
+    "Alan Turing",
+    "Charles Babbage",
+    "Ada Lovelace",
+    "John von Neumann"
+   ],
+   "en": [
+    "Alan Turing",
+    "Charles Babbage",
+    "Ada Lovelace",
+    "John von Neumann"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Bu test bugün Turing testi olarak bilinir.",
+   "en": "It is better known today as the Turing test."
+  }
+ },
+ {
+  "id": "TEC-016",
+  "category": "tech",
+  "difficulty": 2,
+  "question": {
+   "tr": "SQL'in açılımı nedir?",
+   "en": "What does SQL stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Structured Query Language",
+    "System Query Logic",
+    "Simple Question Language",
+    "Sequential Query Language"
+   ],
+   "en": [
+    "Structured Query Language",
+    "System Query Logic",
+    "Simple Question Language",
+    "Sequential Query Language"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "SQL, ilişkisel veritabanlarındaki verileri okumak ve değiştirmek için kullanılır.",
+   "en": "SQL is used to read and change data in relational databases."
+  }
+ },
+ {
+  "id": "TEC-017",
+  "category": "tech",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"AI\" kısaltması neyi ifade eder?",
+   "en": "What does \"AI\" stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Gelişmiş arayüz",
+    "Otomatik internet",
+    "Yapay zekâ (Artificial Intelligence)",
+    "Analog giriş"
+   ],
+   "en": [
+    "Advanced Interface",
+    "Automated Internet",
+    "Artificial Intelligence",
+    "Analog Input"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "\"Yapay zekâ\" terimi 1956'da ortaya atıldı.",
+   "en": "The term \"artificial intelligence\" was coined in 1956."
+  }
+ },
+ {
+  "id": "TEC-018",
+  "category": "tech",
+  "difficulty": 3,
+  "question": {
+   "tr": "Bilgisayarlarda \"GPU\" neyin kısaltmasıdır?",
+   "en": "In computing, what does \"GPU\" stand for?"
+  },
+  "answers": {
+   "tr": [
+    "Graphical Program Unit",
+    "Graphics Processing Unit",
+    "General Purpose Utility",
+    "Global Processing Unit"
+   ],
+   "en": [
+    "Graphical Program Unit",
+    "Graphics Processing Unit",
+    "General Purpose Utility",
+    "Global Processing Unit"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "GPU'lar yapay zekâ modellerini eğitmekte de yaygın olarak kullanılır.",
+   "en": "GPUs are also widely used to train AI models."
+  }
+ },
+ {
+  "id": "NAT-001",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Dünya'nın en büyük memelisi hangisidir?",
+   "en": "What is the largest mammal on Earth?"
+  },
+  "answers": {
+   "tr": [
+    "Afrika fili",
+    "Kaşalot",
+    "Mavi balina",
+    "Zürafa"
+   ],
+   "en": [
+    "The African elephant",
+    "The sperm whale",
+    "The blue whale",
+    "The giraffe"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Bir mavi balinanın kalbi küçük bir otomobil büyüklüğündedir.",
+   "en": "A blue whale's heart is about the size of a small car."
+  }
+ },
+ {
+  "id": "NAT-002",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Karadaki en hızlı hayvan hangisidir?",
+   "en": "What is the fastest land animal?"
+  },
+  "answers": {
+   "tr": [
+    "Tazı",
+    "Çatal boynuzlu antilop",
+    "Çita",
+    "Aslan"
+   ],
+   "en": [
+    "The greyhound",
+    "The pronghorn",
+    "The cheetah",
+    "The lion"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Çitalar kısa mesafede saatte yaklaşık 100 km hıza ulaşabilir.",
+   "en": "Cheetahs can sprint at around 100 km/h for short distances."
+  }
+ },
+ {
+  "id": "NAT-003",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Bir örümceğin kaç bacağı vardır?",
+   "en": "How many legs does a spider have?"
+  },
+  "answers": {
+   "tr": [
+    "8",
+    "6",
+    "10",
+    "12"
+   ],
+   "en": [
+    "8",
+    "6",
+    "10",
+    "12"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Böceklerin 6 bacağı vardır; örümcekler böcek değil, örümceğimsidir.",
+   "en": "Insects have 6 legs; spiders are arachnids, not insects."
+  }
+ },
+ {
+  "id": "NAT-004",
+  "category": "nature",
+  "difficulty": 2,
+  "question": {
+   "tr": "Hangi kuş geriye doğru uçabilir?",
+   "en": "Which bird can fly backwards?"
+  },
+  "answers": {
+   "tr": [
+    "Kartal",
+    "Sinekkuşu",
+    "Serçe",
+    "Baykuş"
+   ],
+   "en": [
+    "The eagle",
+    "The hummingbird",
+    "The sparrow",
+    "The owl"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Sinekkuşları kanatlarını çok hızlı çırparak havada asılı da kalabilir.",
+   "en": "Hummingbirds can also hover in place by beating their wings very fast."
+  }
+ },
+ {
+  "id": "NAT-005",
+  "category": "nature",
+  "difficulty": 2,
+  "question": {
+   "tr": "Aslan sürüsüne İngilizcede ne ad verilir?",
+   "en": "What is a group of lions called?"
+  },
+  "answers": {
+   "tr": [
+    "Herd",
+    "Flock",
+    "Pack",
+    "Pride"
+   ],
+   "en": [
+    "A herd",
+    "A flock",
+    "A pack",
+    "A pride"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Kurt sürüsüne \"pack\", karga sürüsüne \"murder\" denir.",
+   "en": "A group of wolves is a pack; a group of crows is a murder."
+  }
+ },
+ {
+  "id": "NAT-006",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Karadaki en büyük hayvan hangisidir?",
+   "en": "What is the largest land animal?"
+  },
+  "answers": {
+   "tr": [
+    "Su aygırı",
+    "Afrika fili",
+    "Zürafa",
+    "Ak gergedan"
+   ],
+   "en": [
+    "The hippopotamus",
+    "The African elephant",
+    "The giraffe",
+    "The white rhinoceros"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Yetişkin erkek Afrika filleri 6 tondan ağır olabilir.",
+   "en": "Adult male African elephants can weigh more than 6 tonnes."
+  }
+ },
+ {
+  "id": "NAT-007",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Dünyanın en uzun boylu hayvanı hangisidir?",
+   "en": "What is the tallest animal in the world?"
+  },
+  "answers": {
+   "tr": [
+    "Geyik (Mus)",
+    "Afrika fili",
+    "Devekuşu",
+    "Zürafa"
+   ],
+   "en": [
+    "The moose",
+    "The African elephant",
+    "The ostrich",
+    "The giraffe"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Zürafanın boynunda da insanınki gibi yedi omur vardır.",
+   "en": "A giraffe's neck has seven vertebrae, the same number as a human's."
+  }
+ },
+ {
+  "id": "NAT-008",
+  "category": "nature",
+  "difficulty": 2,
+  "question": {
+   "tr": "Gerçek anlamda uçabilen tek memeli hangisidir?",
+   "en": "Which is the only mammal capable of true powered flight?"
+  },
+  "answers": {
+   "tr": [
+    "Yarasa",
+    "Kolugo",
+    "Şeker planörü",
+    "Uçan sincap"
+   ],
+   "en": [
+    "The bat",
+    "The colugo",
+    "The sugar glider",
+    "The flying squirrel"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Uçan sincap ve şeker planörü süzülür; yalnızca yarasalar gerçekten uçar.",
+   "en": "Flying squirrels and sugar gliders glide; only bats truly fly."
+  }
+ },
+ {
+  "id": "NAT-009",
+  "category": "nature",
+  "difficulty": 2,
+  "question": {
+   "tr": "Ahtapotun kaç kalbi vardır?",
+   "en": "How many hearts does an octopus have?"
+  },
+  "answers": {
+   "tr": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ],
+   "en": [
+    "1",
+    "3",
+    "4",
+    "2"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "İki kalp solungaçlara, bir kalp vücudun geri kalanına kan pompalar.",
+   "en": "Two hearts pump blood to the gills and one pumps it to the rest of the body."
+  }
+ },
+ {
+  "id": "NAT-010",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Dev pandalar ağırlıklı olarak ne yer?",
+   "en": "What do giant pandas mainly eat?"
+  },
+  "answers": {
+   "tr": [
+    "Böcek",
+    "Meyve",
+    "Balık",
+    "Bambu"
+   ],
+   "en": [
+    "Insects",
+    "Fruit",
+    "Fish",
+    "Bamboo"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Bir panda günde 14 saate kadar bambu yiyerek vakit geçirebilir.",
+   "en": "A panda can spend up to 14 hours a day eating bamboo."
+  }
+ },
+ {
+  "id": "NAT-011",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Tırtılın kelebeğe dönüşmesine ne ad verilir?",
+   "en": "What is the process called when a caterpillar becomes a butterfly?"
+  },
+  "answers": {
+   "tr": [
+    "Fotosentez",
+    "Göç",
+    "Başkalaşım (metamorfoz)",
+    "Kış uykusu"
+   ],
+   "en": [
+    "Photosynthesis",
+    "Migration",
+    "Metamorphosis",
+    "Hibernation"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Tırtıl bir koza (krizalit) oluşturur ve vücudu burada yeniden şekillenir.",
+   "en": "The caterpillar forms a chrysalis, where its body is rebuilt."
+  }
+ },
+ {
+  "id": "NAT-012",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Dünyanın en büyük kuşu hangisidir?",
+   "en": "What is the largest bird in the world?"
+  },
+  "answers": {
+   "tr": [
+    "Albatros",
+    "And kondoru",
+    "Emu",
+    "Devekuşu"
+   ],
+   "en": [
+    "The albatross",
+    "The Andean condor",
+    "The emu",
+    "The ostrich"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Devekuşları uçamaz ama saatte yaklaşık 70 km hızla koşabilir.",
+   "en": "Ostriches cannot fly, but they can run at about 70 km/h."
+  }
+ },
+ {
+  "id": "NAT-013",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Aşağıdakilerden hangisi memeli DEĞİLDİR?",
+   "en": "Which of these animals is NOT a mammal?"
+  },
+  "answers": {
+   "tr": [
+    "Yarasa",
+    "Yunus",
+    "Balina",
+    "Köpek balığı"
+   ],
+   "en": [
+    "The bat",
+    "The dolphin",
+    "The whale",
+    "The shark"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Köpek balıkları balıktır; yunus, balina ve yarasa hava solur ve yavrularını sütle besler.",
+   "en": "Sharks are fish; dolphins, whales and bats breathe air and feed their young milk."
+  }
+ },
+ {
+  "id": "NAT-014",
+  "category": "nature",
+  "difficulty": 2,
+  "question": {
+   "tr": "Bal arıları bal yapmak için çiçeklerden ne toplar?",
+   "en": "What do honeybees collect from flowers to make honey?"
+  },
+  "answers": {
+   "tr": [
+    "Polen",
+    "Nektar",
+    "Çiy",
+    "Reçine"
+   ],
+   "en": [
+    "Pollen",
+    "Nectar",
+    "Dew",
+    "Sap"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Arılar polen de toplar ama onu bal yapmak için değil, besin olarak kullanır.",
+   "en": "Bees also collect pollen, but they use it as food, not to make honey."
+  }
+ },
+ {
+  "id": "NAT-015",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Kanada bayrağında hangi ağacın yaprağı vardır?",
+   "en": "The leaf of which tree appears on Canada's flag?"
+  },
+  "answers": {
+   "tr": [
+    "Çam",
+    "Akçaağaç",
+    "Meşe",
+    "Huş"
+   ],
+   "en": [
+    "The pine",
+    "The maple",
+    "The oak",
+    "The birch"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Akçaağaç şurubu bu ağacın özsuyundan yapılır.",
+   "en": "Maple syrup is made from the sap of maple trees."
+  }
+ },
+ {
+  "id": "NAT-016",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "İmparator penguenler hangi kıtada yaşar?",
+   "en": "On which continent do emperor penguins live?"
+  },
+  "answers": {
+   "tr": [
+    "Afrika",
+    "Antarktika",
+    "Güney Amerika",
+    "Avustralya"
+   ],
+   "en": [
+    "Africa",
+    "Antarctica",
+    "South America",
+    "Australia"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "İmparator penguenler kışın Antarktika buzları üzerinde ürer.",
+   "en": "Emperor penguins breed on the Antarctic ice during the winter."
+  }
+ },
+ {
+  "id": "NAT-017",
+  "category": "nature",
+  "difficulty": 1,
+  "question": {
+   "tr": "Bukalemunlar en çok hangi özellikleriyle bilinir?",
+   "en": "Chameleons are famous for being able to…"
+  },
+  "answers": {
+   "tr": [
+    "Başlarını yeniden oluşturmak",
+    "Kısa mesafe uçmak",
+    "Su altında nefes almak",
+    "Deri rengini değiştirmek"
+   ],
+   "en": [
+    "Regrow their heads",
+    "Fly short distances",
+    "Breathe underwater",
+    "Change their skin color"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "İletişim kurmak ve vücut ısılarını ayarlamak için renk değiştirirler.",
+   "en": "They change color to communicate and to control their body temperature."
+  }
+ },
+ {
+  "id": "NAT-018",
+  "category": "nature",
+  "difficulty": 3,
+  "question": {
+   "tr": "Bitkide topraktan suyu esas olarak hangi kısım emer?",
+   "en": "Which part of a plant mainly absorbs water from the soil?"
+  },
+  "answers": {
+   "tr": [
+    "Yapraklar",
+    "Çiçekler",
+    "Kökler",
+    "Gövde"
+   ],
+   "en": [
+    "The leaves",
+    "The flowers",
+    "The roots",
+    "The stem"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Su köklerden gövde yoluyla yapraklara taşınır.",
+   "en": "Water travels from the roots up the stem to the leaves."
+  }
+ },
+ {
+  "id": "ART-001",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "Mona Lisa'yı kim resmetti?",
+   "en": "Who painted the Mona Lisa?"
+  },
+  "answers": {
+   "tr": [
+    "Michelangelo",
+    "Raffaello",
+    "Vincent van Gogh",
+    "Leonardo da Vinci"
+   ],
+   "en": [
+    "Michelangelo",
+    "Raphael",
+    "Vincent van Gogh",
+    "Leonardo da Vinci"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Mona Lisa Paris'teki Louvre Müzesi'nde sergilenir.",
+   "en": "The Mona Lisa hangs in the Louvre in Paris."
+  }
+ },
+ {
+  "id": "ART-002",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"Romeo ve Juliet\"i kim yazdı?",
+   "en": "Who wrote \"Romeo and Juliet\"?"
+  },
+  "answers": {
+   "tr": [
+    "Charles Dickens",
+    "Mark Twain",
+    "William Shakespeare",
+    "Jane Austen"
+   ],
+   "en": [
+    "Charles Dickens",
+    "Mark Twain",
+    "William Shakespeare",
+    "Jane Austen"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Shakespeare bu oyunu 1590'larda yazdı.",
+   "en": "Shakespeare wrote it in the 1590s."
+  }
+ },
+ {
+  "id": "ART-003",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"Yıldızlı Gece\" tablosunu kim yaptı?",
+   "en": "Who painted \"The Starry Night\"?"
+  },
+  "answers": {
+   "tr": [
+    "Vincent van Gogh",
+    "Salvador Dalí",
+    "Claude Monet",
+    "Pablo Picasso"
+   ],
+   "en": [
+    "Vincent van Gogh",
+    "Salvador Dalí",
+    "Claude Monet",
+    "Pablo Picasso"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Van Gogh bu tabloyu 1889'da yaptı.",
+   "en": "Van Gogh painted it in 1889."
+  }
+ },
+ {
+  "id": "ART-004",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"Ay Işığı Sonatı\"nın bestecisi kimdir?",
+   "en": "Which composer wrote the \"Moonlight Sonata\"?"
+  },
+  "answers": {
+   "tr": [
+    "Frédéric Chopin",
+    "Johann Sebastian Bach",
+    "Wolfgang Amadeus Mozart",
+    "Ludwig van Beethoven"
+   ],
+   "en": [
+    "Frédéric Chopin",
+    "Johann Sebastian Bach",
+    "Wolfgang Amadeus Mozart",
+    "Ludwig van Beethoven"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "\"Ay Işığı\" adını eser, Beethoven'ın ölümünden sonra bir eleştirmenden aldı.",
+   "en": "The name \"Moonlight\" was given by a critic after Beethoven's death."
+  }
+ },
+ {
+  "id": "ART-005",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"Don Kişot\"u kim yazdı?",
+   "en": "Who wrote \"Don Quixote\"?"
+  },
+  "answers": {
+   "tr": [
+    "Miguel de Cervantes",
+    "Lev Tolstoy",
+    "Victor Hugo",
+    "Dante Alighieri"
+   ],
+   "en": [
+    "Miguel de Cervantes",
+    "Leo Tolstoy",
+    "Victor Hugo",
+    "Dante Alighieri"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Sık sık ilk modern roman olarak anılır.",
+   "en": "It is often called the first modern novel."
+  }
+ },
+ {
+  "id": "ART-006",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"1984\" romanının yazarı kimdir?",
+   "en": "Who wrote the novel \"1984\"?"
+  },
+  "answers": {
+   "tr": [
+    "Aldous Huxley",
+    "George Orwell",
+    "Ray Bradbury",
+    "H. G. Wells"
+   ],
+   "en": [
+    "Aldous Huxley",
+    "George Orwell",
+    "Ray Bradbury",
+    "H. G. Wells"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "\"Büyük Birader\" ifadesi bu romandan gelir.",
+   "en": "The term \"Big Brother\" comes from this novel."
+  }
+ },
+ {
+  "id": "ART-007",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "Resimde geleneksel üç ana renk hangileridir?",
+   "en": "What are the three traditional primary colors in painting?"
+  },
+  "answers": {
+   "tr": [
+    "Kırmızı, sarı ve mavi",
+    "Kırmızı, yeşil ve mavi",
+    "Siyah, beyaz ve gri",
+    "Turuncu, yeşil ve mor"
+   ],
+   "en": [
+    "Red, yellow and blue",
+    "Red, green and blue",
+    "Black, white and gray",
+    "Orange, green and purple"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Kırmızı, yeşil ve mavi ise ekranlarda kullanılan ışığın ana renkleridir.",
+   "en": "Red, green and blue are the primary colors of light used in screens."
+  }
+ },
+ {
+  "id": "ART-008",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "Standart bir kemanın kaç teli vardır?",
+   "en": "How many strings does a standard violin have?"
+  },
+  "answers": {
+   "tr": [
+    "4",
+    "6",
+    "5",
+    "3"
+   ],
+   "en": [
+    "4",
+    "6",
+    "5",
+    "3"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Standart bir gitarın 6 teli vardır.",
+   "en": "A standard guitar has 6 strings."
+  }
+ },
+ {
+  "id": "ART-009",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"Memleketimden İnsan Manzaraları\"nı hangi şair yazdı?",
+   "en": "Which Turkish poet wrote \"Human Landscapes from My Country\"?"
+  },
+  "answers": {
+   "tr": [
+    "Cemal Süreya",
+    "Orhan Veli Kanık",
+    "Yunus Emre",
+    "Nazım Hikmet"
+   ],
+   "en": [
+    "Cemal Süreya",
+    "Orhan Veli Kanık",
+    "Yunus Emre",
+    "Nazım Hikmet"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Nazım Hikmet bu destansı eserin büyük kısmını cezaevindeyken yazdı.",
+   "en": "Nazım Hikmet wrote this epic work mostly while in prison."
+  }
+ },
+ {
+  "id": "ART-010",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "2006 Nobel Edebiyat Ödülü'nü kazanan Türk yazar kimdir?",
+   "en": "Which Turkish author won the Nobel Prize in Literature in 2006?"
+  },
+  "answers": {
+   "tr": [
+    "Sabahattin Ali",
+    "Elif Şafak",
+    "Yaşar Kemal",
+    "Orhan Pamuk"
+   ],
+   "en": [
+    "Sabahattin Ali",
+    "Elif Şafak",
+    "Yaşar Kemal",
+    "Orhan Pamuk"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Romanları arasında \"Benim Adım Kırmızı\" ve \"Kar\" vardır.",
+   "en": "His novels include \"My Name Is Red\" and \"Snow\"."
+  }
+ },
+ {
+  "id": "ART-011",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"Düşünen Adam\" heykelini hangi sanatçı yaptı?",
+   "en": "Which artist created the sculpture \"The Thinker\"?"
+  },
+  "answers": {
+   "tr": [
+    "Michelangelo",
+    "Auguste Rodin",
+    "Gian Lorenzo Bernini",
+    "Donatello"
+   ],
+   "en": [
+    "Michelangelo",
+    "Auguste Rodin",
+    "Gian Lorenzo Bernini",
+    "Donatello"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Rodin onu önce \"Cehennem Kapısı\" adlı büyük bir eserin parçası olarak tasarladı.",
+   "en": "Rodin first designed it as part of a larger work, \"The Gates of Hell\"."
+  }
+ },
+ {
+  "id": "ART-012",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"Aşk ve Gurur\"u (Pride and Prejudice) kim yazdı?",
+   "en": "Who wrote \"Pride and Prejudice\"?"
+  },
+  "answers": {
+   "tr": [
+    "Jane Austen",
+    "Virginia Woolf",
+    "Charlotte Brontë",
+    "Emily Brontë"
+   ],
+   "en": [
+    "Jane Austen",
+    "Virginia Woolf",
+    "Charlotte Brontë",
+    "Emily Brontë"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Roman 1813'te yayımlandı.",
+   "en": "It was published in 1813."
+  }
+ },
+ {
+  "id": "ART-013",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "Sistina Şapeli'nin tavanını kim boyadı?",
+   "en": "Who painted the ceiling of the Sistine Chapel?"
+  },
+  "answers": {
+   "tr": [
+    "Botticelli",
+    "Leonardo da Vinci",
+    "Raffaello",
+    "Michelangelo"
+   ],
+   "en": [
+    "Botticelli",
+    "Leonardo da Vinci",
+    "Raphael",
+    "Michelangelo"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Michelangelo tavanı 1508–1512 yılları arasında boyadı.",
+   "en": "Michelangelo painted it between 1508 and 1512."
+  }
+ },
+ {
+  "id": "ART-014",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "Standart bir modern piyanoda kaç tuş vardır?",
+   "en": "How many keys does a standard modern piano have?"
+  },
+  "answers": {
+   "tr": [
+    "64",
+    "88",
+    "92",
+    "76"
+   ],
+   "en": [
+    "64",
+    "88",
+    "92",
+    "76"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "52 beyaz ve 36 siyah tuş vardır.",
+   "en": "There are 52 white keys and 36 black keys."
+  }
+ },
+ {
+  "id": "ART-015",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"Odysseia\" geleneksel olarak kime atfedilir?",
+   "en": "To whom is \"The Odyssey\" traditionally attributed?"
+  },
+  "answers": {
+   "tr": [
+    "Vergilius",
+    "Sofokles",
+    "Platon",
+    "Homeros"
+   ],
+   "en": [
+    "Virgil",
+    "Sophocles",
+    "Plato",
+    "Homer"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "\"İlyada\" da Homeros'a atfedilir.",
+   "en": "Homer is also credited with \"The Iliad\"."
+  }
+ },
+ {
+  "id": "ART-016",
+  "category": "arts",
+  "difficulty": 2,
+  "question": {
+   "tr": "Salvador Dalí en çok hangi sanat akımıyla tanınır?",
+   "en": "Salvador Dalí is best known for which art movement?"
+  },
+  "answers": {
+   "tr": [
+    "İzlenimcilik",
+    "Kübizm",
+    "Barok",
+    "Gerçeküstücülük"
+   ],
+   "en": [
+    "Impressionism",
+    "Cubism",
+    "Baroque",
+    "Surrealism"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Picasso kübizmle, Monet izlenimcilikle özdeşleşmiştir.",
+   "en": "Picasso is closely linked with Cubism, Monet with Impressionism."
+  }
+ },
+ {
+  "id": "ART-017",
+  "category": "arts",
+  "difficulty": 1,
+  "question": {
+   "tr": "\"Harry Potter\" kitaplarını kim yazdı?",
+   "en": "Who wrote the \"Harry Potter\" books?"
+  },
+  "answers": {
+   "tr": [
+    "J. K. Rowling",
+    "J. R. R. Tolkien",
+    "Roald Dahl",
+    "C. S. Lewis"
+   ],
+   "en": [
+    "J. K. Rowling",
+    "J. R. R. Tolkien",
+    "Roald Dahl",
+    "C. S. Lewis"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "İlk kitap 1997'de yayımlandı.",
+   "en": "The first book was published in 1997."
+  }
+ },
+ {
+  "id": "ART-018",
+  "category": "arts",
+  "difficulty": 3,
+  "question": {
+   "tr": "Mevlana, Mesnevi'yi aslen hangi dilde yazdı?",
+   "en": "In which language did Rumi (Mevlana) originally write the Masnavi?"
+  },
+  "answers": {
+   "tr": [
+    "Arapça",
+    "Rumca",
+    "Türkçe",
+    "Farsça"
+   ],
+   "en": [
+    "Arabic",
+    "Greek",
+    "Turkish",
+    "Persian"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Mevlana Konya'da yaşadı ve ders verdi, ancak şiirlerinin çoğunu Farsça yazdı.",
+   "en": "Rumi lived and taught in Konya, but wrote most of his poetry in Persian."
+  }
+ },
+ {
+  "id": "TUR-001",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Tamamı Türkiye sınırları içinde kalan en uzun akarsu hangisidir?",
+   "en": "What is the longest river that lies entirely within Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "Kızılırmak",
+    "Fırat",
+    "Sakarya",
+    "Yeşilırmak"
+   ],
+   "en": [
+    "The Kızılırmak",
+    "The Euphrates",
+    "The Sakarya",
+    "The Yeşilırmak"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Kızılırmak, Bafra yakınlarında Karadeniz'e dökülür.",
+   "en": "The Kızılırmak flows into the Black Sea near Bafra."
+  }
+ },
+ {
+  "id": "TUR-002",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye'nin en yüksek dağı hangisidir?",
+   "en": "What is the highest mountain in Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "Uludağ",
+    "Erciyes Dağı",
+    "Ağrı Dağı",
+    "Kaçkar Dağı"
+   ],
+   "en": [
+    "Uludağ",
+    "Mount Erciyes",
+    "Mount Ağrı (Ararat)",
+    "Mount Kaçkar"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Ağrı Dağı yaklaşık 5.137 metre yüksekliğindedir.",
+   "en": "Mount Ağrı rises to about 5,137 meters."
+  }
+ },
+ {
+  "id": "TUR-003",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye'de kaç il vardır?",
+   "en": "How many provinces does Türkiye have?"
+  },
+  "answers": {
+   "tr": [
+    "76",
+    "82",
+    "81",
+    "79"
+   ],
+   "en": [
+    "76",
+    "82",
+    "81",
+    "79"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Düzce 1999'da 81. il oldu.",
+   "en": "Düzce became the 81st province in 1999."
+  }
+ },
+ {
+  "id": "TUR-004",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "İstiklal Marşı'nın şairi kimdir?",
+   "en": "Who wrote the lyrics of the Turkish National Anthem?"
+  },
+  "answers": {
+   "tr": [
+    "Tevfik Fikret",
+    "Namık Kemal",
+    "Ziya Gökalp",
+    "Mehmet Akif Ersoy"
+   ],
+   "en": [
+    "Tevfik Fikret",
+    "Namık Kemal",
+    "Ziya Gökalp",
+    "Mehmet Akif Ersoy"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "İstiklal Marşı 12 Mart 1921'de kabul edildi.",
+   "en": "The İstiklal Marşı was adopted on March 12, 1921."
+  }
+ },
+ {
+  "id": "TUR-005",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye Büyük Millet Meclisi hangi tarihte açıldı?",
+   "en": "On which date was the Grand National Assembly of Türkiye opened?"
+  },
+  "answers": {
+   "tr": [
+    "29 Ekim 1923",
+    "30 Ağustos 1922",
+    "23 Nisan 1920",
+    "19 Mayıs 1919"
+   ],
+   "en": [
+    "October 29, 1923",
+    "August 30, 1922",
+    "April 23, 1920",
+    "May 19, 1919"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "23 Nisan aynı zamanda Ulusal Egemenlik ve Çocuk Bayramı olarak kutlanır.",
+   "en": "April 23 is also celebrated as National Sovereignty and Children's Day."
+  }
+ },
+ {
+  "id": "TUR-006",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Mustafa Kemal Kurtuluş Savaşı'nı başlatmak için Samsun'a hangi yıl çıktı?",
+   "en": "In which year did Mustafa Kemal land in Samsun to start the War of Independence?"
+  },
+  "answers": {
+   "tr": [
+    "1918",
+    "1920",
+    "1921",
+    "1919"
+   ],
+   "en": [
+    "1918",
+    "1920",
+    "1921",
+    "1919"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "19 Mayıs 1919'da Samsun'a çıktı; bu gün bugün Gençlik ve Spor Bayramı'dır.",
+   "en": "He landed on May 19, 1919, now celebrated as a youth and sports holiday."
+  }
+ },
+ {
+  "id": "TUR-007",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "Bilinen en eski tapınak alanlarından Göbeklitepe hangi ildedir?",
+   "en": "In which province is Göbeklitepe, one of the oldest known temple sites?"
+  },
+  "answers": {
+   "tr": [
+    "Şanlıurfa",
+    "Gaziantep",
+    "Mardin",
+    "Adıyaman"
+   ],
+   "en": [
+    "Şanlıurfa",
+    "Gaziantep",
+    "Mardin",
+    "Adıyaman"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Göbeklitepe yaklaşık 11.000 yıllıktır ve UNESCO Dünya Mirası listesindedir.",
+   "en": "Göbeklitepe is around 11,000 years old and is a UNESCO World Heritage Site."
+  }
+ },
+ {
+  "id": "TUR-008",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Pamukkale travertenleri hangi ildedir?",
+   "en": "In which province are the Pamukkale travertines?"
+  },
+  "answers": {
+   "tr": [
+    "Afyonkarahisar",
+    "Aydın",
+    "Denizli",
+    "Muğla"
+   ],
+   "en": [
+    "Afyonkarahisar",
+    "Aydın",
+    "Denizli",
+    "Muğla"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Beyaz teraslar, kalsiyumca zengin termal suyun bıraktığı tortulardan oluşur.",
+   "en": "The white terraces are formed by calcium-rich hot spring water."
+  }
+ },
+ {
+  "id": "TUR-009",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Kapadokya'nın ünlü peri bacaları ağırlıklı olarak hangi ildedir?",
+   "en": "The famous fairy chimneys of Cappadocia are mainly in which province?"
+  },
+  "answers": {
+   "tr": [
+    "Niğde",
+    "Nevşehir",
+    "Kayseri",
+    "Konya"
+   ],
+   "en": [
+    "Niğde",
+    "Nevşehir",
+    "Kayseri",
+    "Konya"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Yumuşak volkanik kayaların rüzgâr ve yağmurla aşınmasıyla oluştular.",
+   "en": "They were shaped by wind and rain eroding soft volcanic rock."
+  }
+ },
+ {
+  "id": "TUR-010",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "Türk alfabesinde kaç harf vardır?",
+   "en": "How many letters are in the Turkish alphabet?"
+  },
+  "answers": {
+   "tr": [
+    "29",
+    "31",
+    "26",
+    "28"
+   ],
+   "en": [
+    "29",
+    "31",
+    "26",
+    "28"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Latin temelli Türk alfabesi 1928'de kabul edildi.",
+   "en": "The Latin-based Turkish alphabet was adopted in 1928."
+  }
+ },
+ {
+  "id": "TUR-011",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "İstanbul Boğazı ile Çanakkale Boğazı arasında hangi deniz vardır?",
+   "en": "Which sea lies between the Bosphorus and the Dardanelles?"
+  },
+  "answers": {
+   "tr": [
+    "Karadeniz",
+    "Akdeniz",
+    "Ege Denizi",
+    "Marmara Denizi"
+   ],
+   "en": [
+    "The Black Sea",
+    "The Mediterranean Sea",
+    "The Aegean Sea",
+    "The Sea of Marmara"
+   ]
+  },
+  "correct": 3,
+  "fact": {
+   "tr": "Marmara Denizi tamamı Türkiye'de olan bir iç denizdir.",
+   "en": "The Sea of Marmara is an inland sea entirely within Türkiye."
+  }
+ },
+ {
+  "id": "TUR-012",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "\"İnce Memed\" romanını kim yazdı?",
+   "en": "Who wrote the novel \"İnce Memed\" (Memed, My Hawk)?"
+  },
+  "answers": {
+   "tr": [
+    "Sait Faik Abasıyanık",
+    "Yaşar Kemal",
+    "Reşat Nuri Güntekin",
+    "Orhan Pamuk"
+   ],
+   "en": [
+    "Sait Faik Abasıyanık",
+    "Yaşar Kemal",
+    "Reşat Nuri Güntekin",
+    "Orhan Pamuk"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "İlk kez 1955'te yayımlanan roman Çukurova'da geçer.",
+   "en": "The novel, first published in 1955, is set in the Çukurova region."
+  }
+ },
+ {
+  "id": "TUR-013",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "İstanbul'daki Süleymaniye Camii'nin mimarı kimdir?",
+   "en": "Which architect designed the Süleymaniye Mosque in Istanbul?"
+  },
+  "answers": {
+   "tr": [
+    "Sedefkâr Mehmed Ağa",
+    "Mimar Sinan",
+    "Mimar Hayreddin",
+    "Mimar Kemaleddin"
+   ],
+   "en": [
+    "Sedefkâr Mehmed Ağa",
+    "Mimar Sinan",
+    "Mimar Hayreddin",
+    "Mimar Kemaleddin"
+   ]
+  },
+  "correct": 1,
+  "fact": {
+   "tr": "Sinan, Edirne'deki Selimiye Camii'ni ustalık eseri olarak görmüştür.",
+   "en": "Sinan called the Selimiye Mosque in Edirne his masterpiece."
+  }
+ },
+ {
+  "id": "TUR-014",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "18 Mart Çanakkale Deniz Zaferi hangi yıl kazanıldı?",
+   "en": "In which year was the Çanakkale Naval Victory won, on March 18?"
+  },
+  "answers": {
+   "tr": [
+    "1915",
+    "1914",
+    "1916",
+    "1918"
+   ],
+   "en": [
+    "1915",
+    "1914",
+    "1916",
+    "1918"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "18 Mart, Türkiye'de Şehitleri Anma Günü ve Çanakkale Zaferi olarak anılır.",
+   "en": "March 18 is commemorated in Türkiye as Martyrs' Day and the Çanakkale Victory."
+  }
+ },
+ {
+  "id": "TUR-015",
+  "category": "turkiye",
+  "difficulty": 1,
+  "question": {
+   "tr": "Türkiye'de en çok çay hangi ilde üretilir?",
+   "en": "Which province produces the most tea in Türkiye?"
+  },
+  "answers": {
+   "tr": [
+    "Rize",
+    "Ordu",
+    "Artvin",
+    "Trabzon"
+   ],
+   "en": [
+    "Rize",
+    "Ordu",
+    "Artvin",
+    "Trabzon"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Rize'de çay tarımı 1940'larda yaygınlaştı.",
+   "en": "Tea farming took off in Rize in the 1940s."
+  }
+ },
+ {
+  "id": "TUR-016",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "Türkiye'de kadınlar milletvekili seçme ve seçilme hakkını hangi yıl kazandı?",
+   "en": "In which year did women in Türkiye gain the right to vote and stand in parliamentary elections?"
+  },
+  "answers": {
+   "tr": [
+    "1930",
+    "1923",
+    "1934",
+    "1946"
+   ],
+   "en": [
+    "1930",
+    "1923",
+    "1934",
+    "1946"
+   ]
+  },
+  "correct": 2,
+  "fact": {
+   "tr": "Kadınlar daha önce, 1930'da, yerel seçimlerde oy kullanma hakkı kazanmıştı.",
+   "en": "Women had earlier won the right to vote in local elections, in 1930."
+  }
+ },
+ {
+  "id": "TUR-017",
+  "category": "turkiye",
+  "difficulty": 2,
+  "question": {
+   "tr": "Ayasofya'yı ilk olarak hangi imparatorluk inşa etti?",
+   "en": "Which empire originally built the Hagia Sophia?"
+  },
+  "answers": {
+   "tr": [
+    "Bizans İmparatorluğu",
+    "Pers İmparatorluğu",
+    "Osmanlı İmparatorluğu",
+    "Selçuklu Devleti"
+   ],
+   "en": [
+    "The Byzantine Empire",
+    "The Persian Empire",
+    "The Ottoman Empire",
+    "The Seljuk Empire"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Bugünkü yapı 537'de İmparator I. Justinianus döneminde tamamlandı.",
+   "en": "The current building was completed in 537 under Emperor Justinian I."
+  }
+ },
+ {
+  "id": "TUR-018",
+  "category": "turkiye",
+  "difficulty": 3,
+  "question": {
+   "tr": "Nasreddin Hoca'nın türbesi hangi ildedir?",
+   "en": "In which province is the tomb of Nasreddin Hodja?"
+  },
+  "answers": {
+   "tr": [
+    "Konya (Akşehir)",
+    "Bursa",
+    "Kastamonu",
+    "Ankara"
+   ],
+   "en": [
+    "Konya (Akşehir)",
+    "Bursa",
+    "Kastamonu",
+    "Ankara"
+   ]
+  },
+  "correct": 0,
+  "fact": {
+   "tr": "Akşehir'de her yıl Uluslararası Nasreddin Hoca Şenliği düzenlenir.",
+   "en": "An international Nasreddin Hodja festival is held in Akşehir every year."
+  }
+ }
+]
