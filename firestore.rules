@@ -1,0 +1,64 @@
+rules_version = '2';
+
+// Security rules for Kaboom!
+// Paste into Firebase console → Firestore Database → Rules, then Publish.
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isAdmin() {
+      return signedIn()
+        && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    // Profiles: only the owner (or an admin) can read; nobody can make themselves admin
+    match /users/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow create: if signedIn() && request.auth.uid == uid && request.resource.data.role == 'user';
+      allow update: if signedIn() && request.auth.uid == uid
+        && request.resource.data.role == resource.data.role;
+      allow delete: if signedIn() && request.auth.uid == uid;
+
+      match /games/{gameId} {
+        allow read, write: if signedIn() && request.auth.uid == uid;
+      }
+    }
+
+    // Questions: approved ones are public to players; new ones arrive as "pending";
+    // only an admin can approve, reject, edit or import
+    match /questions/{qid} {
+      allow read: if signedIn() && (
+        resource.data.status == 'approved'
+        || resource.data.submittedBy == request.auth.uid
+        || isAdmin()
+      );
+      allow create: if isAdmin() || (
+        signedIn()
+        && request.resource.data.status == 'pending'
+        && request.resource.data.submittedBy == request.auth.uid
+      );
+      allow update, delete: if isAdmin();
+    }
+
+    // Live duels: anyone signed in can see a room by its code;
+    // only its two players can change it (or a new guest joining an empty seat)
+    match /duels/{code} {
+      allow read: if signedIn();
+      allow create: if signedIn() && request.resource.data.hostUid == request.auth.uid;
+      allow update: if signedIn() && (
+        resource.data.hostUid == request.auth.uid
+        || resource.data.guestUid == request.auth.uid
+        || (resource.data.guestUid == null && request.resource.data.guestUid == request.auth.uid)
+      );
+    }
+
+    // "Why are you leaving?" answers: write-only, no user id stored
+    match /feedback/{id} {
+      allow create: if signedIn();
+      allow read: if isAdmin();
+    }
+  }
+}
