@@ -71,7 +71,7 @@ Arayüz ve soruların tamamı **Türkçe** (varsayılan) ve **İngilizce**dir.
 | Silen kullanıcıya nedenini sor | Silme adımında isteğe bağlı, isimsiz ayrılma anketi |
 | Ateş simgeli kısımlar yapay zekâ izlenimi veriyor | Ana sayfadaki istatistik kutuları kaldırıldı; aynı bilgiler Profil > İstatistikler'de sade bir liste |
 | Kategoriler 7 değil 6 olmalı | Bilim ile Doğa ve Hayvanlar birleşti: "Bilim ve Doğa" (36 soru); ana sayfada 6 kutu tam sığar |
-| Web sitesi ve alan adı | Sonraki adım: Expo web çıktısıyla (`npx expo export --web`) bir alan adında yayınlamak |
+| Web sitesi ve alan adı | Firebase Hosting'de yayında; telefona ana ekran kısayolu olarak eklenebiliyor (PWA). Alan adı sonra bağlanacak |
 
 ## Firebase kurulumu (bir kez)
 
@@ -95,6 +95,30 @@ Arayüz ve soruların tamamı **Türkçe** (varsayılan) ve **İngilizce**dir.
    **Soru Onayı** görünür. (Kurallar, kimsenin kendini uygulama içinden yönetici yapmasına izin vermez.)
 
 Düelloyu denemek için iki cihaz kullan (ör. telefonunda Expo Go, bilgisayarında tarayıcı) ve ikisinde farklı hesapla gir.
+
+## Web sürümü (Firebase Hosting)
+
+Kaboom! bir web sitesi olarak da yayınlanır. Telefonda **Ana ekrana ekle** denildiğinde kendi simgesiyle,
+tam ekran bir uygulama gibi açılır (PWA).
+
+Bir kez:
+```bash
+npm install -g firebase-tools
+firebase login
+firebase use --add        # Kaboom projeni seç, takma ad: default
+```
+
+Her yayında:
+```bash
+npx expo export --platform web
+firebase deploy --only hosting
+```
+
+Site adresi: `https://<proje-kimliği>.web.app`. Kendi alan adını (ör. `kaboom.com.tr`) daha sonra
+Firebase konsolu → Hosting → **Özel alan adı ekle** ile bağlayabilirsin; `.web.app` adresi de çalışmaya devam eder.
+Alan adı ekledikten sonra Authentication → Settings → **Authorized domains** listesine de ekle.
+
+Firestore kurallarını değiştirdiğinde konsola kopyalamak yerine: `firebase deploy --only firestore:rules`
 
 ## Çalıştırma
 
@@ -123,7 +147,10 @@ src/AppContext.js         Hesap, oyunlar, sorular, düello, dil ve tema (uygulam
 src/backend.js            Firebase ile tüm iletişim (giriş, Firestore, canlı düello)
 src/firebaseConfig.js     Firebase proje bilgileri (kurulum adım 4)
 firestore.rules           Firestore güvenlik kuralları
-metro.config.js           Firebase'in Expo ile çalışması için Metro ayarı
+metro.config.js           Varsayılan Expo Metro ayarı
+firebase.json             Firebase Hosting ve Firestore kuralları ayarı
+public/                   Web sayfası şablonu, PWA manifest dosyası ve simgeler
+assets/                   Uygulama simgesi ve açılış ekranı görseli
 src/i18n.js               Tüm Türkçe ve İngilizce metinler
 src/storage.js            Cihazdaki ayarlar: dil ve giriş denemesi sayacı
 src/theme.js              Temalar, cevap kutusu renkleri, stil yardımcısı
@@ -160,7 +187,7 @@ Yeni soruları eklemeden önce ikinci bir kaynakla doğrulayın.
 
 - Düello şimdilik 2 kişiliktir; daha kalabalık odalar sonraki adım.
 - Google ile giriş şimdilik misafir girişine yönlendirir; gerçek bağlantı için Google Cloud OAuth ayarı gerekir.
-- Web sitesi ve alan adı (ör. kaboom.com.tr) henüz yayında değil.
+- Kendi alan adı (ör. kaboom.com.tr) henüz bağlanmadı; site şimdilik `.web.app` adresinde.
 
 ---
 

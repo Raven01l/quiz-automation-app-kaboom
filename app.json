@@ -4,20 +4,27 @@
     "slug": "kaboom",
     "version": "1.0.0",
     "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "backgroundColor": "#1A1033",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F6F4FF",
     "android": {
-      "package": "com.kaboom.quiz"
+      "package": "com.kaboom.quiz",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#7C3AED"
+      }
     },
     "ios": {
       "bundleIdentifier": "com.kaboom.quiz"
     },
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "Kaboom! Bilgi Yarışması",
+      "shortName": "Kaboom!",
+      "themeColor": "#7C3AED",
+      "backgroundColor": "#F6F4FF"
     },
-    "plugins": [
-      "expo-status-bar",
-      "expo-font"
-    ]
+    "icon": "./assets/icon.png"   
   }
 }
