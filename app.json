@@ -8,6 +8,7 @@
     "backgroundColor": "#F6F4FF",
     "android": {
       "package": "com.kaboom.quiz",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#7C3AED"
@@ -25,6 +26,6 @@
       "themeColor": "#7C3AED",
       "backgroundColor": "#F6F4FF"
     },
-    "icon": "./assets/icon.png"   
+    "icon": "./assets/icon.png"
   }
 }
