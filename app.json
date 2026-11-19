@@ -26,6 +26,11 @@
       "themeColor": "#7C3AED",
       "backgroundColor": "#F6F4FF"
     },
-    "icon": "./assets/icon.png"
+    "icon": "./assets/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "2959e06a-3a15-4243-9199-f067de01e0cc"
+      }
+    }
   }
 }
